@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-frankoleka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/eslint-config-frankoleka.git"
+  },
+  "keywords": [],
+  "author": "Franko Leka <franko9leka@gmail.com> (https://github.com/frankoleka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/eslint-config-frankoleka/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-frankoleka#readme"
+}
