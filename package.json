@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/eslint-config-frankoleka/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/eslint-config-frankoleka#readme"
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-frankoleka#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.2",
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
 }
